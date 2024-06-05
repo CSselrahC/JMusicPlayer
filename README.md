@@ -2,7 +2,7 @@
 ## JMusicPlayer repository
 ### repository for **CCS103 COmputer Programming 2** - Finals Project
 
-[!IMPORTANT]
+>[!IMPORTANT]
 ### things to do:
 - 
 
