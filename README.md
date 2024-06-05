@@ -5,8 +5,8 @@
 > [!IMPORTANT]
 > ### things to do:
  **important: **
-[] up and down buttons
-[] volume up and volume down buttons
+- [ ] up and down buttons
+- [ ] volume up and volume down buttons
 [] play music button (that transforms to pause button when pressed)
 [] stop button (clickable only when pause button is present)
 [] loop 1 button
