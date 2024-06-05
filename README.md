@@ -1,9 +1,12 @@
 # repository-na-maangas
-JMusicPlayer repository
+## JMusicPlayer repository
+### repository for **CCS103 COmputer Programming 2** - Finals Project
 
-&nbsp
+[!IMPORTANT]
+### things to do:
+- 
 
-repository for CCS103 COmputer Programming 2 - Finals Project
+
 
 Programmer(s):
 - Charles
