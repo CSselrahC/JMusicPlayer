@@ -8,10 +8,12 @@
 > 
 > Things to do:
 > - [ ] better GUI
+> 
 > Things to fix:
 > - [ ] when the table already have music, the selected row does not change (mainly visual problem, up and down button still works as intended)
 > - [ ] table should not be editable
 > - [ ] table does not update immediately when you add a music (the table does update when you scroll using the scroll pane)
+>
 > **optional:**
 > - [x] ~~add a function for: adding music to the player~~
 > - [x] ~~add a function for: up and down buttons for the music player <sub> array might work </sub>~~
