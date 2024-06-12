@@ -34,6 +34,7 @@
 - Up and Down Buttons that navigates through the table
 - Play Button that plays the music
 - Play button transforms into a pause button
+- Now shows you the title of the current playing music (version 0.4)
 
 Programmer(s):
 - Charles
