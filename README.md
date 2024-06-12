@@ -17,7 +17,7 @@
 > - [ ] add a function for: volume up and volume down
 > - [ ] add a function for: "loop 1 music" and "loop all music"
 > - [ ] add a function for: shuffle <sub> math random might work </sub>
-> - 
+> 
 > ~~**important:**~~
 > - [x] ~~up and down buttons~~
 > - [x] ~~volume up and volume down buttons~~
