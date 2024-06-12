@@ -3,8 +3,6 @@
 ### repository for **CCS103 Computer Programming 2** - Finals Project
 
 > [!IMPORTANT]
-> ### things to do:
-> **important**
 > 
 > Things to do:
 > - [ ] better GUI
