@@ -653,6 +653,7 @@ public class jmpTryiso extends JFrame {
 					playButton.setEnabled(true);
 					playButton.setBackground(new Color(30, 215, 96));
 					addButton.setText("Change");
+					loopOneButton.setEnabled(true);
 				}
 			}
 		});
