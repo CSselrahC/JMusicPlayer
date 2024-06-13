@@ -4,13 +4,8 @@
 
 > [!IMPORTANT]
 > 
-> Things to do:
+> **Things to do:**
 > - [ ] better GUI
-> 
-> Things to fix:
-> - [ ] when the table already have music, the selected row does not change (mainly visual problem, up and down button still works as intended)
-> - [ ] table should not be editable
-> - [ ] table does not update immediately when you add a music (the table does update when you scroll using the scroll pane)
 >
 > **optional:**
 > - [x] ~~add a function for: adding music to the player~~
@@ -23,10 +18,14 @@
 > - [x] ~~up and down buttons~~
 > - [x] ~~volume up and volume down buttons~~
 > - [x] ~~play music button (that transforms to pause button when pressed)~~
-> - [x] ~~stop button (clickable only when pause button is present)~~
 > - [x] ~~loop 1 button~~
 > - [x] ~~loop all button~~
 > - [x] ~~shuffle button~~
+> 
+> ~~**Things to fix:**~~
+> - [x] ~~when the table already have music, the selected row does not change (mainly visual problem, up and down button still works as intended)~~
+> - [x] ~~table should not be editable~~
+> - [x] ~~table does not update immediately when you add a music (the table does update when you scroll using the scroll pane)~~
 
 **Main Features**
 - A table where you can view all added music
