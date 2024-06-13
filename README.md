@@ -34,6 +34,7 @@
 - Play Button that plays the music
 - Play button transforms into a pause button
 - Now shows you the title of the current playing music (version 0.4)
+- can now overwrite added music (version 0.5)
 
 Programmer(s):
 - Charles
