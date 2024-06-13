@@ -15,6 +15,7 @@ import java.awt.Font;
 import javax.sound.sampled.AudioInputStream;
 import javax.sound.sampled.AudioSystem;
 import javax.sound.sampled.Clip;
+import javax.sound.sampled.FloatControl;
 import javax.swing.JButton;
 import javax.swing.JFileChooser;
 
@@ -22,6 +23,9 @@ import java.awt.event.ActionListener;
 import java.io.File;
 import java.awt.event.ActionEvent;
 import javax.swing.JLabel;
+import javax.swing.JSlider;
+import javax.swing.event.ChangeListener;
+import javax.swing.event.ChangeEvent;
 
 public class jmpTryiso extends JFrame {
 
@@ -47,6 +51,9 @@ public class jmpTryiso extends JFrame {
 	private JButton loopAllButton;
 	private JButton loopOneButton;
 	private JButton shuffleButton;
+
+	float previousVolume = 0, currentVolume = 0;
+	FloatControl floatControl;
 
 	// Launch the application.
 	public static void main(String[] args) {
@@ -739,5 +746,18 @@ public class jmpTryiso extends JFrame {
 		shuffleButton.setEnabled(false);
 		volumeUpButton.setEnabled(false);
 		volumeDownButton.setEnabled(false);
+
+		JSlider volumeSlider = new JSlider(-40, 6);
+		volumeSlider.addChangeListener(new ChangeListener() {
+			public void stateChanged(ChangeEvent e) {
+				floatControl = (FloatControl)clip.getControl(FloatControl.Type.MASTER_GAIN);
+				currentVolume = volumeSlider.getValue();
+				
+				if(currentVolume == -40) currentVolume = -80;
+				floatControl.setValue(currentVolume);
+			}
+		});
+		volumeSlider.setBounds(22, 292, 200, 26);
+		contentPane.add(volumeSlider);
 	}
 }
