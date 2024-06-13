@@ -717,6 +717,7 @@ public class jmpTryiso extends JFrame {
 		loopOneButton = new JButton("Loop One");
 		loopOneButton.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
+				clip.loop(Clip.LOOP_CONTINUOUSLY);
 			}
 		});
 		loopOneButton.setBounds(154, 369, 90, 25);
