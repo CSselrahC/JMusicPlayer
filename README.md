@@ -40,8 +40,12 @@
 - Now shows you the title of the current playing music (version 0.4)
 - can now overwrite added music (version 0.5)
 
+
+
 **Version History**
+
 0.6
+- now added volume slider
 - programmer: Kurt
 
 0.5
@@ -69,6 +73,8 @@
 - added "play music" functionality
 - programmer: Kurt
 
+
+
 Programmer(s):
-- Charles
-- Kurt Joshua
+- Charles (https://github.com/CSselrahC)
+- Kurt Joshua (https://github.com/kurtjoshua)
