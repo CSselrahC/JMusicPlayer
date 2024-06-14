@@ -747,7 +747,7 @@ public class jmpTryiso extends JFrame {
 		volumeUpButton.setEnabled(false);
 		volumeDownButton.setEnabled(false);
 
-		JSlider volumeSlider = new JSlider(-40, 6);
+		JSlider volumeSlider = new JSlider(JSlider.HORIZONTAL, -40, 6, 6);
 		volumeSlider.addChangeListener(new ChangeListener() {
 			public void stateChanged(ChangeEvent e) {
 				floatControl = (FloatControl)clip.getControl(FloatControl.Type.MASTER_GAIN);
