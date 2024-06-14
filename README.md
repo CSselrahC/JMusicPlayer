@@ -44,6 +44,12 @@
 
 **Version History**
 
+0.7
+- now added mute button
+- volume slider bug fix
+- GUI changed
+- programmer: Kurt, Charles
+
 0.6
 - now added volume slider
 - programmer: Kurt
