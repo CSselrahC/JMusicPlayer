@@ -40,6 +40,35 @@
 - Now shows you the title of the current playing music (version 0.4)
 - can now overwrite added music (version 0.5)
 
+**Version History**
+0.6
+- programmer: Kurt
+
+0.5
+- better table GUI
+- better button GUI
+- fixed non-updating table problem
+- fixed editable table problem
+- programmer: Charles
+
+0.4
+- added a "Currently PLaying Music" feature
+- programmer: Charles
+
+0.3
+- fixed problem of multiple music playing at once
+- programmer: Charles
+
+0.2
+- added table to view added music
+- added functionality to up and down buttons
+- programmer: Charles
+
+0.1
+- added "add music" functionality
+- added "play music" functionality
+- programmer: Kurt
+
 Programmer(s):
 - Charles
 - Kurt Joshua
