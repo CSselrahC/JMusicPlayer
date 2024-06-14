@@ -7,27 +7,22 @@
 > > https://drive.google.com/drive/folders/1jRP6jPlD9anGUok7bj5S2JMWIqqqEG03?usp=sharing
 > > 
 > > —charles
-> 
-> **Things to do:**
-> - [ ] better GUI
->
-> **optional:**
-> - [ ] add a function for: "loop 1 music" and "loop all music"
-> - [ ] add a function for: shuffle <sub> math random might work </sub>
+
 
 **Main Features**
-- A table where you can view all added music
-- Add Button that adds music on the table
-- Up and Down Buttons that navigates through the table
-- Play Button that plays the music
-- Play button transforms into a pause button
-- Now shows you the title of the current playing music (version 0.4)
-- can now overwrite added music (version 0.5)
-- can now change volume (version 0.6)
-- can now loop music (version 0.6)
-- can now mute volume (version 0.7)
+- All added music are visible in a table
+- Up and Down Buttons can navigate through the table
+- Lets you add your own music
+- Music can be looped
+- Volume can be changed
+
 
 **Version History**
+
+0.9
+- UI fix
+- removed unnessecary codes
+- **programmer:** Charles, Kurt
 
 0.8
 - UI fix
