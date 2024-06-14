@@ -1,6 +1,5 @@
-# repository-na-maangas
-## JMusicPlayer repository
-### repository for **CCS103 Computer Programming 2** - Finals Project
+# JMusicPlayer repository
+## repository for **CCS103 Computer Programming 2** - Finals Project
 
 > [!IMPORTANT]
 > > if you need WAV files to test the player, you can download some of my files here:
