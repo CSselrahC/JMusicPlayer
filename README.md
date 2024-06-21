@@ -45,7 +45,7 @@
 - **programmer:** Charles
 
 0.4
-- added a "Currently PLaying Music" feature
+- added a "Currently Playing Music" feature
 - **programmer:** Charles
 
 0.3
